@@ -4,6 +4,8 @@ This repository is a quick n' dirty script to ping the Enjin contract for inform
 
 ## Setup
 
+Install the packages: `npm install`
+
 Copy `.env.sample` to `.env`:
 
 ```
